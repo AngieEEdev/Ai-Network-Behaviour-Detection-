@@ -1,0 +1,13 @@
+Model Evaluation:
+
+Accuracy: ~0.80 (example)
+Dataset: small UNSW sample
+
+Observations:
+- Model detects high-byte traffic as anomalous
+- Performs well on simple patterns
+
+Limitations:
+- Small dataset
+- Limited features
+

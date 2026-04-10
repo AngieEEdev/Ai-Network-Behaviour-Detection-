@@ -1,0 +1,12 @@
+Experiment 1:
+- Features used: spkts, dur, sbytes, bytes_per_packet
+- Model: Logistic Regression
+- Reason: simple baseline for anomaly detection
+
+Observation:
+- Model successfully distinguishes high traffic anomalies
+- Limited dataset size affects generalisation
+
+Future Work:
+- Use full UNSW-NB15 dataset
+- Try Random Forest / XGBoost
